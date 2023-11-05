@@ -1,1 +1,1 @@
-# sechallenge. 
+# sechallenge
